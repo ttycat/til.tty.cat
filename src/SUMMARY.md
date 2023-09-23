@@ -6,3 +6,9 @@
 - [Go](./programming/go/index.md)
 - [Python](./programming/python/index.md)
 - [Rust](./programming/rust/index.md)
+
+# Welding
+
+- [GMAW](./welding/gmaw.md)
+- [GTAW](./welding/gtaw.md)
+- [SMAW](./welding/smaw.md)
